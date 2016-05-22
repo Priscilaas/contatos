@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9ea49c55a5db59dcaf74118bf930d6b50be47f5f">
+        <dex dex="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c92b9d5f7f11b3356970dea434a54f58a36f53ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Priscila\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_660177798a0998fcea24143c4064ca960aea1645\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Priscila\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_41b050b4521900e47b8167fb826f1fb4a0bef849\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_edfe8f518b8b0bb0b168f85c9a32670c11de5483\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_8654fc65a631b608758dcf5833f7a98b97ecb7e9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_585da5785c781bdc3ec21fb0779619a8aa621bda\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_5e8eba4deb8b488e8f2b2a1c2ecf6cf64620d261\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="270b78d4b36cc62b5549ba7063be4cbd62a00da2">
+        <dex dex="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_abb872bc5c3371b00710861781105aed58172e67\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_472bed36bcea9df3a0c978674377447ebb003eb2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_03e6d5215c25e55abb62dc6a1d39aa5d62e3ddc5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Priscila\Desktop\Contatos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_fb30915fc5172d840dcfdfb4216bd4b18823f924\classes.dex" />
+    </item>
+
+</items>
